@@ -4,43 +4,47 @@
     "url": "https://ewestlin.se",
     "icon": "https://icons.duckduckgo.com/ip3/ewestlin.se.ico",
     "slug": "e-westlin-se",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2417,
     "timeDay": 2477,
     "timeWeek": 2429,
     "timeMonth": 2417,
     "timeYear": 2417,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-30": 3
+    }
   },
   {
     "name": "Goldenprops.se",
     "url": "https://goldenprops.se",
     "icon": "https://icons.duckduckgo.com/ip3/goldenprops.se.ico",
     "slug": "goldenprops-se",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2772,
     "timeDay": 2118,
     "timeWeek": 2607,
     "timeMonth": 2772,
     "timeYear": 2772,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-30": 2
+    }
   },
   {
     "name": "Spirulinas (EXT Host)",
     "url": "https://spirulinas.se",
     "icon": "https://icons.duckduckgo.com/ip3/spirulinas.se.ico",
     "slug": "spirulinas-ext-host",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 1534,
     "timeMonth": 1512,
     "timeYear": 1512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-30": 0
+    }
   },
   {
     "name": "Test Broken Site",
