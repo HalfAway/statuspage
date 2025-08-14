@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ewestlin.se.ico",
     "slug": "e-westlin-se",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 2643,
-    "timeDay": 2967,
-    "timeWeek": 2848,
-    "timeMonth": 2643,
-    "timeYear": 2643,
+    "uptime": "99.91%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 2629,
+    "timeDay": 2847,
+    "timeWeek": 2806,
+    "timeMonth": 2629,
+    "timeYear": 2629,
     "dailyMinutesDown": {
-      "2025-08-13": 50
+      "2025-08-13": 37
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/goldenprops.se.ico",
     "slug": "goldenprops-se",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 2948,
-    "timeDay": 5660,
-    "timeWeek": 3669,
-    "timeMonth": 2948,
-    "timeYear": 2948,
+    "uptime": "99.91%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 2967,
+    "timeDay": 6070,
+    "timeWeek": 3850,
+    "timeMonth": 2967,
+    "timeYear": 2967,
     "dailyMinutesDown": {
-      "2025-08-13": 51
+      "2025-08-13": 38
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/spirulinas.se.ico",
     "slug": "spirulinas-ext-host",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "96.53%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 1756,
-    "timeDay": 3645,
-    "timeWeek": 2363,
-    "timeMonth": 1756,
-    "timeYear": 1756,
+    "uptime": "99.91%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1860,
+    "timeDay": 4484,
+    "timeWeek": 2749,
+    "timeMonth": 1860,
+    "timeYear": 1860,
     "dailyMinutesDown": {
-      "2025-08-13": 50
+      "2025-08-13": 37
     }
   },
   {
