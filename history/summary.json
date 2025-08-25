@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ewestlin.se.ico",
     "slug": "e-westlin-se",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.88%",
-    "time": 2585,
-    "timeDay": 3934,
-    "timeWeek": 2440,
-    "timeMonth": 2627,
-    "timeYear": 2585,
+    "uptimeYear": "99.89%",
+    "time": 2592,
+    "timeDay": 2946,
+    "timeWeek": 2507,
+    "timeMonth": 2631,
+    "timeYear": 2592,
     "dailyMinutesDown": {
       "2025-08-21": 26,
       "2025-08-13": 37
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
-    "time": 2907,
-    "timeDay": 2840,
-    "timeWeek": 2885,
-    "timeMonth": 2911,
-    "timeYear": 2907,
+    "time": 2901,
+    "timeDay": 2586,
+    "timeWeek": 2782,
+    "timeMonth": 2902,
+    "timeYear": 2901,
     "dailyMinutesDown": {
       "2025-08-13": 38
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
-    "time": 1776,
-    "timeDay": 1505,
-    "timeWeek": 1625,
-    "timeMonth": 1832,
-    "timeYear": 1776,
+    "time": 1787,
+    "timeDay": 2320,
+    "timeWeek": 1715,
+    "timeMonth": 1853,
+    "timeYear": 1787,
     "dailyMinutesDown": {
       "2025-08-13": 37
     }
